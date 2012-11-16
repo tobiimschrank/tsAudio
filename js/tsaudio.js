@@ -6,8 +6,8 @@
         __.$audio = '';
         
         __.conf = {
-            ogg: 'music/huetchenspiel.ogg',
-            mp3: 'music/huetchenspiel.mp3',
+            ogg: '', // you have to set the path to ogg-file in your call
+            mp3: '', // you have to set the path to mp3-file in your call
             autoplay: false
         };
         
